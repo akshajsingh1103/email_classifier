@@ -184,15 +184,6 @@ email_classifier/
 
 The classifier uses 4 reference documents per category (16 total) to create robust category representations. These are combined and vectorized to create category vectors.
 
-## 🎓 Why This Project?
-
-✅ **Real NLP techniques** - TF-IDF, cosine similarity, text preprocessing  
-✅ **No training required** - Uses reference documents, no large datasets needed  
-✅ **Easy to understand** - Clear explanation of NLP concepts  
-✅ **Industry-level** - Professional code structure and implementation  
-✅ **Quick to run** - Can be set up and running in under 30 minutes  
-✅ **Practical application** - Real-world email classification use case  
-
 ## 📊 Testing
 
 Run the test suite:
